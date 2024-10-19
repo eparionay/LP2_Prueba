@@ -18,8 +18,7 @@ public class ClienteController {
 		return "/cliente/crear";
 	}
 	
+	// esto es un mensaje
 	
-	// Esto es un mensaje
 	
-
 }
