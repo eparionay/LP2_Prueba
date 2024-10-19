@@ -72,7 +72,7 @@ public class AlumnoController {
 	
 	
 	
-	
+	//Mi compañero tiene de nombre: Naruto<3Sakura32
 	
 	
 	
